@@ -16,4 +16,4 @@ even more text
 
 ## How to Contribute
 
-some copyright stuff
+please do stuff
