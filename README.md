@@ -17,3 +17,6 @@ even more text
 ## How to Contribute
 
 please do stuff
+
+## Copyright
+2014 Git training. All rights reserved.
